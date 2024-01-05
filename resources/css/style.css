@@ -1,3 +1,5 @@
+/* BODY */
+
 body {
     background-color: black;
     text-align: center;
@@ -24,7 +26,17 @@ body {
 }
 /* HEADINGS */
 
+/* LINKS */ 
+
 .link--cta {
     font-size: 16px;
     color: aquamarine;
+}
+
+/* FOOTER */
+
+.footer--copyright {
+    font-size: 21px;
+    color: grey;
+    text-align: right;
 }
